@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=UserView
+comment0.text=\r\n\r\n\ @author\ Denzel\ Galamgam\r\n
+comment1.params=u
+comment1.target=UserView(User)
+comment2.params=
+comment2.target=void\ initComponents()
+comment2.text=\r\n\ This\ method\ is\ called\ from\ within\ the\ constructor\ to\ initialize\ the\ form.\r\n\ WARNING\:\ Do\ NOT\ modify\ this\ code.\ The\ content\ of\ this\ method\ is\ always\r\n\ regenerated\ by\ the\ Form\ Editor.\r\n
+comment3.params=evt
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=evt
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=evt
+comment5.target=void\ followBtnActionPerformed(java.awt.event.ActionEvent)
+comment6.params=evt
+comment6.target=void\ tweetBtnActionPerformed(java.awt.event.ActionEvent)
+comment7.params=
+comment7.target=void\ updateFollowing()
+comment8.params=
+comment8.target=void\ updateFeed()
+comment9.params=msg\ sub
+comment9.target=void\ update(java.lang.String,\ Subject)
+numComments=10

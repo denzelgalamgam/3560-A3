@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=UserVisitor
+comment0.text=\r\n\r\n\ @author\ Denzel\ Galamgam\r\n
+comment1.params=u
+comment1.target=void\ visit(User)
+comment2.params=ug
+comment2.target=void\ visit(UserGroup)
+numComments=3
